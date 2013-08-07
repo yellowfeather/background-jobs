@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PptScheduler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CLOUDAMQP_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">amqp://30148c2c-2b18-496f-a38a-c52c35f0de37_apphb.com:vNdMAPxOqbxu3-CbTnUvfwnwX2ncF9wu@tiger.cloudamqp.com/30148c2c-2b18-496f-a38a-c52c35f0de37_apphb.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
